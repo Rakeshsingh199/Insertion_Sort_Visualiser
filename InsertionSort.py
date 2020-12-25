@@ -13,13 +13,9 @@ pygame.display.set_caption(
             "SORTING VISUALISER"
             ) 
   
-# Uncomment below lines for setting  
-# up the icon for the visuliser 
-# img = pygame.image.load('sorticon.png') 
-# pygame.display.set_icon(img) 
+
   
-# Boolean variable to run  
-# the program in while loop 
+
 run = True
   
 # Window size and some initials 
